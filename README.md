@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding stuff
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm bad in coding stuff
+- ⚡ Fun fact: I'm bad at coding stuff
 
 <!---
 CyberRampage/CyberRampage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
